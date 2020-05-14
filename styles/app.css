@@ -1,4 +1,6 @@
-h1 {
-  background: 0; }
+body {
+  background-color: #f2f1cf; }
+  body h1 {
+    color: lightcoral; }
 
 /*# sourceMappingURL=app.css.map */
